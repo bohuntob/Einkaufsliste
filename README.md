@@ -2,4 +2,4 @@
 *Name*:**Bohun**  
 *Vorname*:**Tobias**  
 *Alter*:**20**  
-*Abschluss*:**Abitur**  
+*Abschluss*:**Abitur**  (hätte er zumindest gerne)
